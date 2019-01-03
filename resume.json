@@ -21,7 +21,7 @@
 		"technologies": ["html", "css", "javascript", "jquery"],
 		"frameworks": ["angular 2+", "bootstrap"]
 	},
-	"experience": {
+	"experience": [
 		{
       "company": "Cybage Software Pvt. Ltd.",
       "website": "https://www.cybage.com",
@@ -43,8 +43,8 @@
       "endDate": "00-111-2010",
       "summary": "I was responsible for designing web templates in Photoshop and converting them in live HTML pages. Gradually I got myself working along with developers and embedding PHP codes."
     }
-	},
-	"projects": {
+	],
+	"projects": [
 		{
       "name": "Airtel Portal",
       "desc": "Airtel KM is about enhancing the user experience and information to improve usability of Airtel's corporate intranet portal etc for end user based on their location and other attributes."
@@ -69,8 +69,8 @@
       "name": "Couturize LLC",
       "desc": "Courturize is dealing with couture/wardrobe selling online. This application was designed to collect information from different retailers what they are selling and at what price. We created different categories for different kind of clothes and they were being displayed as per the categories."
     }
-	},
-	"education": {
+	],
+	"education": [
 		{
 			"degree": "Bsc [Computer Science]",
 			"year": "2007",
@@ -86,7 +86,7 @@
 			"year": "2001",
 			"board": "Nasik Board"
 		}
-	},
+	],
 	"interests": [
 		"Cricket", "Reading", "Cycling", "Movies [neo noir thriller films]"
 	]
