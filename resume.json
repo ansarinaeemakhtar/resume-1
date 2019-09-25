@@ -7,19 +7,20 @@
 		"technologies": "HTML, CSS, Javascript, jQuery, Angular 2+, Photoshop, PHP, Mysql"
 	},
 	"about": {
-		"summary" : "With over 9+ years of combined experience in Web Development and Designing, I have worked in the Digital Marketing and Information Technology domains.",
+		"summary" : "With over 10 years of combined experience in Web Development and Designing, I have worked in the Digital Marketing and Information Technology domain",
 		"highlights" : [
-			"Skilled in developing GUI using HTML, CSS, JavaScript/JQuery, and responsive designs.",
-			"Experience in Responsive Layouts [Bootstrap 3/4].",
-			"Skilled in hand-coding, implementing code and troubleshooting a variety of web development problems.",
-			"Improve accessibility and design of external and internal web applications using semantic markup integrated with server side language like PHP and .NET Environment.",
-			"Experience in LESS & SASS, PHP, and MySQL.",
-			"Thorough subject knowledge, strong analytical and troubleshooting skills with an ability to perform in challenging environments."
+			"Skilled in developing GUI using HTML, CSS, JavaScript/JQuery, and responsive designs",
+			"Experience in Responsive Layouts and Bootstrap 3/4, LESS, and SCSS",
+			"Skilled in hand-coding, implementing code and troubleshooting a variety of web development problems",
+			"Improve accessibility of applications using markup integrated with backend technologies like PHP/.NET Environments",
+			"Experience in PHP and MySQL",
+			"Have good communication skills"
 		]
 	},
 	"skills": {
-		"technologies": ["html", "css", "javascript", "jquery"],
+		"technologies": ["html", "css", "javascript", "jquery", "responsive layouts"],
 		"frameworks": ["angular 2+", "bootstrap"]
+		"designing-tools": ["Photoshop", "CorelDraw"]
 	},
 	"experience": [
 		{
@@ -45,49 +46,53 @@
     }
 	],
 	"projects": [
+		
 		{
-      "name": "Airtel Portal",
-      "desc": "Airtel KM is about enhancing the user experience and information to improve usability of Airtel's corporate intranet portal etc for end user based on their location and other attributes."
-    },
-    {
-      "name": "Marketing Communications and Branding",
-      "desc": "As part of the project, the deliverables included Cybage’s quarterly newsletter, greeting newsletters to clients, CSR scholarship forms, and client feedback form. My tasks also included front-end development on the Cybage corporate website."
-    }, 
-    {
-      "name": "WorldBook Online",
-      "desc": "Worldbook Online deals with different projects in providing creative methods of learning. I was responsible for creating HTML structure products."
-    }, 
-    {
-      "name": "Jagged Peak",
-      "desc": "Jagged Peak deals with different projects in e-commerce. I was responsible for creating/solving problems faced in the GUI of their websites."
-    }, 
-    {
-      "name": "Facebook Applications",
-      "desc": "Facebook applications consist of basic functionality of collecting user information and inserting into database.  I was responsible for the creating clickable prototypes using HTML, CSS and JS coding."
-    }, 
-    {
-      "name": "Couturize LLC",
-      "desc": "Courturize is dealing with couture/wardrobe selling online. This application was designed to collect information from different retailers what they are selling and at what price. We created different categories for different kind of clothes and they were being displayed as per the categories."
-    }
+		      "name": "Airtel Portal",
+		      "desc": "Airtel KM is about enhancing the user experience and information to improve usability of Airtel's corporate intranet portal etc for end user based on their location and other attributes."
+		},
+		{
+			"name": "Marketing Communications and Branding",
+			"desc": "As part of the project, the deliverables included Cybage’s quarterly newsletter, greeting newsletters to clients, CSR scholarship forms, and client feedback form. My tasks also included front-end development on the Cybage corporate website."
+		}, 
+		{
+			"name": "WorldBook Online",
+			"desc": "Worldbook Online deals with different projects in providing creative methods of learning. I was responsible for creating HTML structure products."
+		}, 
+		{
+			"name": "Jagged Peak",
+			"desc": "Jagged Peak deals with different projects in e-commerce. I was responsible for creating/solving problems faced in the GUI of their websites."
+		}, 
+		{
+			"name": "Facebook Applications",
+			"desc": "Facebook applications consist of basic functionality of collecting user information and inserting into database.  I was responsible for the creating clickable prototypes using HTML, CSS and JS coding."
+		}, 
+		{
+			"name": "Couturize LLC",
+			"desc": "Courturize is dealing with couture/wardrobe selling online. This application was designed to collect information from different retailers what they are selling and at what price. We created different categories for different kind of clothes and they were being displayed as per the categories."
+		}
 	],
 	"education": [
 		{
-			"degree": "Bsc [Computer Science]",
+			"degree": "B. Sc. [Computer Science]",
 			"year": "2007",
+			"marks": 61.75%,
 			"board": "Savitribai Phule Pune University"
 		},
 		{
 			"degree": "HSC",
 			"year": "2003",
-			"board": "Nasik Board"
+			"marks": 55.33%,
+			"board": "MS Board of Secondary and Higher Secondary Education, Pune"
 		},
 		{
 			"degree": "SSC",
 			"year": "2001",
-			"board": "Nasik Board"
+			"marks": 74.00%,
+			"board": "MS Board of Secondary and Higher Secondary Education, Pune"
 		} 
 	],
 	"interests": [
-		"Cricket", "Reading", "Cycling", "Movies [neo noir thriller films]"
+		"Cricket", "Reading", "Cycling", "Movies"
 	]
 }
