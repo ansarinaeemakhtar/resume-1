@@ -76,19 +76,19 @@
 		{
 			"degree": "B. Sc. [Computer Science]",
 			"year": "2007",
-			"marks": 61.75%,
+			"marks": "61.75%",
 			"board": "Savitribai Phule Pune University"
 		},
 		{
 			"degree": "HSC",
 			"year": "2003",
-			"marks": 55.33%,
+			"marks": "55.33%",
 			"board": "MS Board of Secondary and Higher Secondary Education, Pune"
 		},
 		{
 			"degree": "SSC",
 			"year": "2001",
-			"marks": 74.00%,
+			"marks": "74.00%",
 			"board": "MS Board of Secondary and Higher Secondary Education, Pune"
 		} 
 	],
