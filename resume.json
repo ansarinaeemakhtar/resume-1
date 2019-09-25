@@ -19,7 +19,7 @@
 	},
 	"skills": {
 		"technologies": ["html", "css", "javascript", "jquery", "responsive layouts"],
-		"frameworks": ["angular 2+", "bootstrap"]
+		"frameworks": ["angular 2+", "bootstrap"],
 		"designing-tools": ["Photoshop", "CorelDraw"]
 	},
 	"experience": [
