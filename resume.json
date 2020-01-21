@@ -19,9 +19,10 @@
 		]
 	},
 	"skills": {
-		"technologies": ["html", "css", "javascript", "jquery", "responsive layouts"],
+		"technologies": ["html", "css", "javascript", "jquery", "responsive layouts", "wordpress"],
+		"backend": ["php", "mysql"],
 		"frameworks": ["angular 2+", "bootstrap"],
-		"designing-tools": ["Photoshop", "CorelDraw"]
+		"designingTools": ["Photoshop", "CorelDraw"]
 	},
 	"experience": [
 		{
