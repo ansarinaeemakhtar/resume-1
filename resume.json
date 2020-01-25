@@ -1,7 +1,7 @@
 {
 	"basics": {
 		"name": "naeem akhtar",
-		"contact": "8956898984",
+		"contact": "+91 8956 8989 84",
 		"email": "momin.naeemakhtar@gmail.com",
 		"currentPosition": "Senior Software Engineer [Front End Technology]",
 		"technologies": "HTML, CSS, Javascript, jQuery, Angular 2+, Photoshop, PHP, Mysql",
@@ -27,9 +27,9 @@
 	"experience": [
 		{
       "company": "Musafir.com",
-      "website": "https://in.musafir.com/",
-      "startDate": "21-Oct-2010",
-      "endDate": "till now",
+      "website": "https://in.musafir.com",
+      "startDate": "21-Oct-2019",
+      "endDate": "present",
       "summary": "Currently working as Senior UI Developer, managing Wordpress site."
     },
 		{
@@ -50,7 +50,7 @@
       "company": "Bombay IT Solutions and Palsan Business Services",
       "website": "",
       "startDate": "00-Jan-2008",
-      "endDate": "00-111-2010",
+      "endDate": "00-11-2010",
       "summary": "I was responsible for designing web templates in Photoshop and converting them in live HTML pages. Gradually I got myself working along with developers and embedding PHP codes."
     }
 	],
