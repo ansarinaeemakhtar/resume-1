@@ -19,10 +19,26 @@
 		]
 	},
 	"skills": {
-		"technologies": ["html", "css", "javascript", "jquery", "responsive layouts", "wordpress"],
-		"backend": ["php", "mysql"],
-		"frameworks": ["angular 2+", "bootstrap"],
-		"designingTools": ["Photoshop", "CorelDraw"]
+		"technologies": [
+		  {"tech": "html", "rating": 8 },
+		  {"tech": "css", "rating": 8 },
+		  {"tech": "javascript", "rating": 5 },
+		  {"tech": "jquery", "rating": 6 },
+		  {"tech": "responsive_layouts", "rating": 7 },
+		  {"tech": "wordpress", "rating": 6}
+		],
+		"backend": [
+		  {"tech": "php", "rating": 5 },
+		  {"tech": "mysql", "rating": 5 }
+		],
+		"frameworks": [
+		  {"tech": "angular 2+", "rating": 5 },
+		  {"tech": "bootstra 3/4", "rating": 7 }
+		],
+		"designingTools": [
+		  {"tech": "photoshop", "rating": 6 },
+		  {"tech": "CorelDraw", "rating": 6 }
+		]
 	},
 	"experience": [
 		{
