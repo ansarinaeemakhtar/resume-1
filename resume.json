@@ -3,121 +3,193 @@
 		"name": "naeem akhtar",
 		"contact": "+91 8956 8989 84",
 		"email": "momin.naeemakhtar@gmail.com",
-		"currentPosition": "Senior Software Engineer [Front End Technology]",
-		"technologies": "HTML, CSS, Javascript, jQuery, Angular 2+, Photoshop, PHP, Mysql",
+		"currentPosition": "Senior UI Developer",
+		"technologies": "HTML, CSS, Javascript, jQuery, WordPress, PHP, MySql, Angular 2+, Photoshop, CorelDraw",
 		"dp": "https://instagram.fpnq7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/71069660_642102076315086_7444259594869669888_n.jpg?_nc_ht=instagram.fpnq7-1.fna.fbcdn.net&_nc_ohc=5XJqJYJQUUYAX8Bjg2h&oh=4016c7a77abd883ec82a995cd139fbf9&oe=5EB7B4D3"
 	},
 	"about": {
-		"summary" : "With over 10 years of combined experience in Web Development and Designing, I have worked in the Digital Marketing and Information Technology domain",
+		"summary" : "With over 10 years of combined experience in Web Development and Designing, I have worked in the Digital Marketing and Information Technology domain.",
 		"highlights" : [
-			"Skilled in developing GUI using HTML, CSS, JavaScript/JQuery, and responsive designs",
-			"Experience in Responsive Layouts and Bootstrap 3/4, LESS, and SCSS",
-			"Skilled in hand-coding, implementing code and troubleshooting a variety of web development problems",
-			"Improve accessibility of applications using markup integrated with backend technologies like PHP/.NET Environments",
-			"Experience in PHP and MySQL",
-			"Have good communication skills"
+			"Skilled in developing UI using HTML, CSS, JavaScript, jQuery, Bootstrap, SASS, and responsive designs",
+			"Skilled in hand-coding, implementing code and troubleshooting cross browser compatibility issues",
+			"Improve accessibility of applications using markup integrated with backend technologies",
+			"Thorough subject knowledge, strong analytical and troubleshooting skills with an ability to perform in challenging environments",
+			"Good experience in Wordpress, PHP, MySQL, Git, Jira",
+			"Have good verbal and written communication skills"
 		]
 	},
 	"skills": {
 		"technologies": [
-		  {"tech": "html", "rating": 8 },
-		  {"tech": "css", "rating": 8 },
-		  {"tech": "javascript", "rating": 5 },
-		  {"tech": "jquery", "rating": 6 },
-		  {"tech": "responsive_layouts", "rating": 7 },
-		  {"tech": "wordpress", "rating": 6}
-		],
-		"backend": [
-		  {"tech": "php", "rating": 5 },
-		  {"tech": "mysql", "rating": 5 }
-		],
-		"frameworks": [
-		  {"tech": "angular 2+", "rating": 5 },
-		  {"tech": "bootstra 3/4", "rating": 7 }
-		],
-		"designingTools": [
-		  {"tech": "photoshop", "rating": 6 },
-		  {"tech": "CorelDraw", "rating": 6 }
+		  {"tech": "HTML", "rating": 90 },
+		  {"tech": "CSS", "rating": 90 },
+		  {"tech": "Bootstrap/Responsive web design", "rating": 60 },
+		  {"tech": "JavaScript/jQuery", "rating": 65 },
+		  {"tech": "WordPress", "rating": 60 },
+		  {"tech": "PHP/MySql", "rating": 55 },
+		  {"tech": "Angular 2+/React", "rating": 50 },
+		  {"tech": "Photoshop/CorelDraw", "rating": 70 }
 		]
 	},
 	"experience": [
 		{
-      "company": "Musafir.com",
+      "company": "Musafir",
+      "designation": "Sr. UI Developer",
+      "basedAt": "Pune",
       "website": "https://in.musafir.com",
       "startDate": "21-Oct-2019",
-      "endDate": "present",
-      "summary": "Currently working as Senior UI Developer, managing Wordpress site."
+      "endDate": "now",
+      "isCurrentCompany": true,
+      "summary": "Solely responsible for creating, maintaining WordPress site of the company. Managed and updated for marketing team. Designed and developed using custom PHP codes, created custom ACF blocks using ACF plugin.",
+      "roleNResponsibility": [
+        "Handling WordPress site using custom ACF blocks for posts, customizing the site as per the requirement through backend",
+        "Staging site: musafirdev1.wpengine.com and Production site: business.musafir.com",
+        "musafirdev1.wpengine.com",
+        "business.musafir.com"
+      ]
     },
 		{
       "company": "Cybage Software Pvt. Ltd.",
+      "designation": "Software engineer [Front end technology]",
+      "basedAt": "Pune",
       "website": "https://www.cybage.com",
       "startDate": "28-Jan-2013",
       "endDate": "18-Oct-2019",
-      "summary": "I have worked on several projects ranging from responsive layouts, CSS, HTML to developing newsletters and Marketing forms &amp; mailers with notable clients like Airtel, WorldBook Online and Google (SEO developer)."
+      "isCurrentCompany": false,
+      "summary": "I have worked on several projects ranging from responsive layouts, CSS, HTML to developing newsletters and Marketing forms &amp; mailers with notable clients like Airtel, WorldBook Online, and Google [SEO developer].",
+      "roleNResponsibility": [
+        "Handling cross browser compatibility issues for different kinds of projects",
+        "Fixing FET related queries and problems",
+        "Worked on various website maintenance tasks to accomplish the same",
+        "Upgrading myself with working in projects involving Angular and ES6"
+      ]
     },
     {
-      "company": "Social Wavelength (now) Mirum",
-      "website": "http://socialwavelength.com",
+      "company": "Social Wavelength PR Outsourcing",
+      "designation": "Web Designer/Developer",
+      "basedAt": "Mumbai",
+      "website": "https://socialwavelength.com",
       "startDate": "01-Jan-2011",
       "endDate": "18-Oct-2013",
-      "summary": "Mainly worked on Facebook Application design and development.  Here I got to sharpen my skills at Photoshop."
+      "isCurrentCompany": false,
+      "summary": "Worked on different responsive websites, facebook tabs, wordpress sites.  Mainly worked on Facebook Application design and development.  Here I got to sharpen my skills at Photoshop.  Got to work with many talented souls which also helped me groom my interpersonal skills and made me a team player.",
+      "roleNResponsibility": [
+        "Converting FB app designs into interactive tabs",
+        "Worked on web-based projects with WordPress integration/re-skinning the WordPress themes",
+        "Responsive & SEO friendly websites in PHP, WordPress updates",
+        "FB apps, tabs, responsive emailers, FB API, Twitter API, YouTube API etc"
+      ]
     },
     {
-      "company": "Bombay IT Solutions and Palsan Business Services",
+      "company": "Palsan Business Services &amp; Bombay IT Solutions",
+      "designation": "Web Designer",
+      "basedAt": "Mumbai",
       "website": "",
-      "startDate": "00-Jan-2008",
-      "endDate": "00-11-2010",
-      "summary": "I was responsible for designing web templates in Photoshop and converting them in live HTML pages. Gradually I got myself working along with developers and embedding PHP codes."
+      "startDate": "April 2008 &amp; Aug 2009",
+      "endDate": "July 2009 &amp; Dec 2010",
+      "isCurrentCompany": false,
+      "summary": "Started as web designer in Palsan, later Palsan merged with Bombay IT Solutions. I was responsible for creating website in photoshop and then converting it into html pages.  I was responsible for designing web templates in Photoshop and converting them in live HTML pages. Gradually I got myself working along with developers for backend technology.",
+      "roleNResponsibility": [
+        "Designing web templates in Photoshop and converting them in live HTML pages",
+        "Working along with developers and embedding PHP codes"
+      ]
     }
 	],
 	"projects": [
-		
 		{
-		      "name": "Airtel Portal",
-		      "desc": "Airtel KM is about enhancing the user experience and information to improve usability of Airtel's corporate intranet portal etc for end user based on their location and other attributes."
+      "title": "Couturize LLC",
+      "description": "Courturize is dealing with couture/wardrobe selling online. This application was designed to collect information from different retailers what they are selling and at what price. We created different categories for different kind of clothes and they were being displayed as per the categories.",
+      "domain": "e-Commerce",
+      "designingtools": ["CorelDraw", "Photoshop"],
+      "technologies": ["HTML", "CSS", "JavaScript", "PHP", "MySql"],
+      "roleNResponsibility": [
+        "Creation of PSD templates for the websites",
+        "Conversion from PSD to HTML pages of the whole project",
+        "Responsible for the resolving Cross Browser integration issues with backend developers",
+        "Resolving client-side front-end issues &amp; concerns"
+      ]
 		},
-		{
-			"name": "Marketing Communications and Branding",
-			"desc": "As part of the project, the deliverables included Cybage’s quarterly newsletter, greeting newsletters to clients, CSR scholarship forms, and client feedback form. My tasks also included front-end development on the Cybage corporate website."
-		}, 
-		{
-			"name": "WorldBook Online",
-			"desc": "Worldbook Online deals with different projects in providing creative methods of learning. I was responsible for creating HTML structure products."
-		}, 
-		{
-			"name": "Jagged Peak",
-			"desc": "Jagged Peak deals with different projects in e-commerce. I was responsible for creating/solving problems faced in the GUI of their websites."
-		}, 
-		{
-			"name": "Facebook Applications",
-			"desc": "Facebook applications consist of basic functionality of collecting user information and inserting into database.  I was responsible for the creating clickable prototypes using HTML, CSS and JS coding."
-		}, 
-		{
-			"name": "Couturize LLC",
-			"desc": "Courturize is dealing with couture/wardrobe selling online. This application was designed to collect information from different retailers what they are selling and at what price. We created different categories for different kind of clothes and they were being displayed as per the categories."
+    {
+      "title": "Facebook applications",
+      "description": "Facebook applications consist of basic functionality of collecting user information and inserting into database. Was responsible for the creating clickable prototypes using HTML, CSS and JS coding.",
+      "domain": "Social media",
+      "designingtools": ["Photoshop"],
+      "technologies": ["HTML", "CSS", "Javascript", "PHP", "MySql", "FB SDK"],
+      "roleNResponsibility": [
+        "Estimate time for conversion from PSD to HTML",
+        "Conversion of photoshop templates into live web pages/sites",
+        "UI development of sites using HTML, CSS and JavaScript",
+        "Creation of Facebook applications using PHP, MySQL, &amp; FB SDK"
+      ]
+		},
+    {
+      "title": "WorldBook Online",
+      "description": "Worldbook Online deals with different projects in providing creative methods of learning. I was responsible for creating/lay-outing HTML structure products: Advanced and Student category. The other product was Kids category where I was involved in resolution of UI bugs.",
+      "domain": "e-Learning",
+      "designingtools": [""],
+      "technologies": ["HTML", "CSS [Less]"],
+      "roleNResponsibility": [
+        "Converting the provided Photoshop templates into html pages",
+        "Handling/resolving browser HTML issues as per the w3c",
+        "Was responsible for resolving cross browser issues with backend team",
+        "Resolving client issues & concerns with respect to the HTML, CSS, & JavaScript"
+      ]
+		},
+    {
+      "title": "Marketing Communications & Branding for Cybage",
+      "description": "As part of the project, the deliverables included Cybage’s quarterly newsletter, greeting newsletters for clients, CSR scholarship forms, and client feedback forms. My tasks also included front-end development on the Cybage corporate website.",
+      "domain": [""],
+      "designingtools": [""],
+      "technologies": ["HTML", "CSS", "Responsive Layouts", "jQuery", "PHP", "MySql"],
+      "roleNResponsibility": [
+        "Handling/resolving browser HTML issues as per the w3c",
+        "Responsible for the resolving Cross Browser integration issues with backend team",
+        "Responsible for creating CSR registration and client feedback forms using JavaScript and PHP"
+      ]
+		},
+    {
+      "title": "Airtel portal",
+      "description": "Airtel KM is about enhancing the user experience and information to improve usability of Airtel's corporate intranet portal by enabling personalized content experience for end user based on their location and other attributes.",
+      "domain": [""],
+      "designingtools": [""],
+      "technologies": ["HTML", "CSS", "Responsive layout"],
+      "roleNResponsibility": [
+        "Was responsible for resolving browser issues as per provided mockups",
+        "Resolution of cross browser issues along with backend developers"
+      ]
 		}
 	],
 	"education": [
 		{
 			"degree": "B. Sc. [Computer Science]",
 			"year": "2007",
-			"marks": "61.75%",
+			"marks": "61.75",
 			"board": "Savitribai Phule Pune University"
 		},
 		{
 			"degree": "HSC",
 			"year": "2003",
-			"marks": "55.33%",
-			"board": "MS Board of Secondary and Higher Secondary Education, Pune"
+			"marks": "55.33",
+			"board": "Maharashtra State Board, Pune"
 		},
 		{
 			"degree": "SSC",
 			"year": "2001",
-			"marks": "74.00%",
-			"board": "MS Board of Secondary and Higher Secondary Education, Pune"
+			"marks": "74.00",
+			"board": "Maharashtra State Board, Pune"
 		} 
 	],
 	"interests": [
-		"Cricket", "Reading", "Cycling", "Movies"
+    "Outdoors", "Cycling", "Movies", "Cricket", "Reading"
+	],
+	"social": [
+		{
+			"linkedin": "https://www.linkedin.com/in/ansarinaeemakhtar"
+		},
+		{
+			"skype": "https://www.skype.com/momin.naeemakhtar"
+		},
+		{
+			"instagram": "https://www.instagram.com/ansarinaeemakhtar"
+		} 
 	]
 }
